@@ -41,3 +41,8 @@ bin/
 ### Mac OS ###
 .DS_Store
 /.idea/*
+/ok-workout-app-api-v1-jackson/.idea/vcs.xml
+/ok-workout-app-api-v1-jackson/.idea/workspace.xml
+/ok-workout-app-api-v1-jackson/.idea/misc.xml
+/ok-workout-app-api-v1-jackson/.idea/gradle.xml
+/ok-workout-app-api-v1-jackson/.idea/
