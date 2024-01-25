@@ -36,4 +36,8 @@ Workout app "Better today" - это приложение для составле
 ## Подпроекты для занятий по языку Kotlin
 1. [m1l1-hello](m1l1-hello) - Вводное занятие, создание первой программы на Kotlin
 2. [ok-workout-app-acceptance](ok-workout-app-acceptance) - Приемочные тесты (ДЗ 2)
+3. [ok-workout-app-api-v1-jackson](ok-workout-app-api-v1-jackson) - Версия 1 транспортных моделей, используется jackson
+4. [ok-workout-app-mappers-v1](ok-workout-app-mappers-v1) - Мапперы из транспортных моделей v1 во внутренние модели
+5. [ok-workout-app-common](ok-workout-app-common) - Внутренние модели, общие хелперы и интерфейсы
+6. [specs](specs) - спецификации openapi
 
